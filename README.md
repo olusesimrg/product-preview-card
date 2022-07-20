@@ -11,10 +11,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Check out the code](https://github.com/olusesimrg/product-preview-card.git)
+- Live Site URL: [Live Site](https://olusesimrg.github.io/product-preview-card/)
 
 ### Built with
 
@@ -24,12 +22,10 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - CSS Grid
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/olusesimrg)
+- Twitter - [@yourusername](https://www.twitter.com/olusesimrgees)
 
